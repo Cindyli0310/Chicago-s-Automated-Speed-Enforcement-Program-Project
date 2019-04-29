@@ -99,7 +99,12 @@ In each ward, number of crimes is not positively correlated to the number of spe
 
 **Step 3**  I use Python to merge 2015-2018 Chicago crime dataset with speed camera violation dataset by Wards.  
 
-**Step 4**  In the new merged dataset in Tableau, each case number represents total number of crime by each wards.  
+**Step 4**  In the new merged dataset in Tableau, each case number represents total number of crime by each wards.The pictures shows the merge steps writing in Jupyter notebook with Python. I also upload the complete file in github.  
+
+![](merge_1.png) 
+
+![](merge_2.png)
+
 
 **Step 5**  I used bar chart to make the plot first. However, many bars overlap together, the graph looks really messy. 
 
