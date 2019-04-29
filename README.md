@@ -138,8 +138,12 @@ https://weatherspark.com/y/14091/Average-Weather-in-Chicago-Illinois-United-Stat
 # Notification
 
 The original datasets of Chicago crime from year 2015-2018 and Chicago speeding camera violation are too big, and it is hard to upload here. Here is the link to datasets:
-Crime dataset: https://data.cityofchicago.org/Public-Safety/Crimes-2015/vwwp-7yr9
-               https://data.cityofchicago.org/Public-Safety/Crimes-2018/3i3m-jwuy
-               https://data.cityofchicago.org/Public-Safety/Crimes-2016/kf95-mnd6
-               https://data.cityofchicago.org/Public-Safety/Crimes-2017/d62x-nvdr
+Crime dataset: https://data.cityofchicago.org/Public-Safety/Crimes-2015/vwwp-7yr9  
+
+               https://data.cityofchicago.org/Public-Safety/Crimes-2018/3i3m-jwuy  
+               
+               https://data.cityofchicago.org/Public-Safety/Crimes-2016/kf95-mnd6  
+               
+               https://data.cityofchicago.org/Public-Safety/Crimes-2017/d62x-nvdr  
+               
 Speed camera violation: https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/hhkd-xvj4
