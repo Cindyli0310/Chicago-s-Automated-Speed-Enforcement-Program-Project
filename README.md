@@ -134,3 +134,12 @@ https://weatherspark.com/y/14091/Average-Weather-in-Chicago-Illinois-United-Stat
 3. "CHICAGO'S LATEST MONEY GRAB: 300 SPEED CAMERAS COULD GENERATE UP TO $4.3 BILLION IN FINES FROM LOCAL MOTORISTS." illinoispolicy, 21 Aug. 2013, www.illinoispolicy.org/chicagos-latest-money-grab-300-speed-cameras-could-generate-up-to-4-3-billion-in-fines-from-local-motorists/. 
 
 4. Usmani, Fahad. "What is a Scatter Diagram (Correlation Chart)?" PM Study Circle, 23 July 2018, https://pmstudycircle.com/2014/08/what-is-a-scatter-diagram-correlation-chart/
+
+# Notification
+
+The original datasets of Chicago crime from year 2015-2018 and Chicago speeding camera violation are too big, and it is hard to upload here. Here is the link to datasets:
+Crime dataset: https://data.cityofchicago.org/Public-Safety/Crimes-2015/vwwp-7yr9
+               https://data.cityofchicago.org/Public-Safety/Crimes-2018/3i3m-jwuy
+               https://data.cityofchicago.org/Public-Safety/Crimes-2016/kf95-mnd6
+               https://data.cityofchicago.org/Public-Safety/Crimes-2017/d62x-nvdr
+Speed camera violation: https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/hhkd-xvj4
