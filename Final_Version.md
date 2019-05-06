@@ -101,7 +101,7 @@ In each ward, number of crimes is not positively correlated to the number of spe
 ![](images/merge_2.png)
 
 **Step 5**  I used bar chart to make the plot first. However, many bars overlap together, the graph looks really messy. 
-![](revised_images/Finding_3_1.png) 
+![](images/Finding_3_1.png) 
 
 
 **Step 6**  On PM Study Circle website, it illustrates "scatter plot shows the relationship between two variables. It is the best method to show you a non-linear pattern. The range of data flow, i.e. maximum and minimum value, can be easily determined." And I want to find whether violation numbers are correlated with crime numbers, I realized that scatter plot is a better choice. As a result, I got an unexpected finding.  
