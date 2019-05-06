@@ -1,6 +1,6 @@
 # Chicago’s Automated Speed Enforcement Program
 
-The topic for the individual project is the City of Chicago’s Automated Speed Enforcement Program, and the project is to transform Speed Camera Violations in Chicago dataset into visualizations.  
+The topic for the individual project is the City of Chicago’s Automated Speed Enforcement Program. The two objectives with this project are transform an unknown dataset into visualizations and get comfortable using Tableau.
 
 ### Project Steps:
 * [Data Exploration](https://public.tableau.com/profile/xinran.li7719#!/vizhome/Individual_project_Xinran_Li/Toptencameraswiththemostviolations)
