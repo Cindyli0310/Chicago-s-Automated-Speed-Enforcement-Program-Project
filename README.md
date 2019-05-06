@@ -5,5 +5,4 @@ The topic for the individual project is the City of Chicago’s Automated Speed 
 ### Project Steps:
 * [Data Exploration](https://public.tableau.com/profile/xinran.li7719#!/vizhome/Individual_project_Xinran_Li/Toptencameraswiththemostviolations)
 * [First Version](https://github.com/Cindyli0310/Chicago-s-Automated-Speed-Enforcement-Program-Project/blob/master/First_Version.md)
-* Revised Version
-
+* [Revised Version](https://github.com/Cindyli0310/Chicago-s-Automated-Speed-Enforcement-Program-Project/blob/master/Final_Version.md)
