@@ -20,21 +20,21 @@ The City ordinance establishing the Children’s Safety Zone program substantial
 * The enforcement hours around parks will be limited to only those hours parks are open (typically 6 a.m. to 11 p.m., 7 days a week) with a 30 mph speed limit
 
 Here is the preview of the Speed Camera Violations Dataset:
-![](Speeding.png) 
+![](images/Speeding.png) 
 
 ## Speed Camera Violations with Crime Dataset  
 
 This dataset reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2015 to 2018. Data is extracted from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system. The dataset is merged Year of 2015-2018's crime datasets orginally comes from Chicago Data Portal website. Each case number represents total number of crime by each wards.
 
 Here is the preview of the Speed Camera Violations with Crime Dataset
-![](crime.png) 
+![](images/crime.png) 
 
 
 # Finding Analysis 
 
 ## Finding 1   
 The graph clearly show that daily average speed violation number decreases year by year.  
-![](Finding_1_New.png)  
+![](revised_images/Finding_1_New.png)  
 
 ### Data wrangling steps   
 **Step 1**  I conceptually think that with speed camera installation, drivers behavior will change, and the violation numbers will change by time. So I checked the relatioship between violation numbers and each year.  
@@ -42,7 +42,7 @@ The graph clearly show that daily average speed violation number decreases year 
 **Step 2**  Year 2014 and 2019 are not complete year, instead of using total number of violation by year, I choose to use daily average violation as row.  
 
 **Step 3**  I used line chart to represent the data first. However, even it clearly shows the trend, it is hard to compare different year's violation numbers. So I changed the graph to bar chart, and it much clearly to show trend and each year's difference. The following line graph is what I have tried first to explore the finding
-![](Finding_1_line_graph.png) 
+![](images/Finding_1_line_graph.png) 
 
 
 ### Analysis   
@@ -53,7 +53,7 @@ However, an article named 'CHICAGO’S LATEST MONEY GRAB  300 SPEED CAMERAS COUL
 ## Finding 2   
 Violation number is affected by seasonality issue. The higheset violation number by each month usually happened in May or October for each year, and August is always the low point between May and October.  
 
-![](Finding_2_New.png)
+![](revised_images/Finding_2_New.png)
 
 
 ### Data wrangling steps   
@@ -62,10 +62,10 @@ Violation number is affected by seasonality issue. The higheset violation number
 **Step 2** Because year 2014 and 2019 are not complete data, I filter the data only include whole calendar year from 2015-2018.
 
 **Step 3** I tried line graph to find the relationship between violation numbers and month. However, the result was very disappointed. It looks like one particular month has higher violation numbers than others, however, it is hard to tell the seasonality relationship with violation numbers. 
-![](Finding_2_line_graph.png) 
+![](images/Finding_2_line_graph.png) 
 
 **Step 4** And then I used bar chart to make the plot and sort by sum violation number descending. However, the relationship is not obvious and the graph looks a little bit messy. It only can figure out May is the highest violation month from 2015-2017, but Octorber became the highest violation number on 2018. 
-![](Finding_2_bar_graph.png) 
+![](images/Finding_2_bar_graph.png) 
 
 **Step 5** And then I realized finding a trend Line by sorting violation number maybe not a good idea. So I changed back to line chart. But this time, I divided the data by each year, and because I want to compare whether seasonality issue happened on each year and has similar trend. After I check it, the result is very clear. 
 
@@ -78,13 +78,13 @@ Second, one potential reason to cause August has low point is that majority scho
 
 In order to sovle the high violation issue, I would suggust Chicago government to double the fine during warm weather month. With higher fine, people will be more careful to pass children safety zone and decrease automobile injuries. 
 
-![](Chicago_weather.png)
+![](images/Chicago_weather.png)
 
 
 ### Finding 3   
 In each ward, number of crimes is not positively correlated to the number of speeding violations. In wards with low crime numbers, the number of speeding violations seem to be randomly distributed. In wards with high crime numbers, the number of crimes and number of speeding violations seem to be negatively correlated.  
 
-![](Finding_3_New.png)
+![](revised_images/Finding_3_New.png)
 
 
 ### Data wrangling steps   
@@ -96,12 +96,12 @@ In each ward, number of crimes is not positively correlated to the number of spe
 
 **Step 4**  In the new merged dataset in Tableau, each case number represents total number of crime by each wards.
 
-![](merge_1.png) 
+![](images/merge_1.png) 
 
-![](merge_2.png)
+![](images/merge_2.png)
 
 **Step 5**  I used bar chart to make the plot first. However, many bars overlap together, the graph looks really messy. 
-![](Finding_3_1.png) 
+![](revised_images/Finding_3_1.png) 
 
 
 **Step 6**  On PM Study Circle website, it illustrates "scatter plot shows the relationship between two variables. It is the best method to show you a non-linear pattern. The range of data flow, i.e. maximum and minimum value, can be easily determined." And I want to find whether violation numbers are correlated with crime numbers, I realized that scatter plot is a better choice. As a result, I got an unexpected finding.  
