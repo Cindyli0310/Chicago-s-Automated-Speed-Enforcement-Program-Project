@@ -140,6 +140,7 @@ https://weatherspark.com/y/14091/Average-Weather-in-Chicago-Illinois-United-Stat
 * Adding final version requirement explanation in Project Overview part
 * Adding some exploration graphs analysis and reasons in data wrangling step
 * Adding screen shots for Speeding Violation dataset and Crime dataset
+* Adding interactive features of Tableau to improve original graphs
 
 ## Visualization part
 
