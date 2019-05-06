@@ -29,6 +29,25 @@ This dataset reflects reported incidents of crime (with the exception of murders
 Here is the preview of the Speed Camera Violations with Crime Dataset:
 ![](images/Crime.png) 
 
+# Developing process  
+
+1 - Playaround with data 
+* Redownloading the data from Chicago data portal.There are some new variables have been added to the dataset such as Community area, Wards.  
+* Checking data validity. For example, Zipcode is not a correct data of Chicago zipcode.
+* Clarifying different variable meaning;Understanding each row represents for.
+* Checking each variable type(e.g. string, float and etc). 
+
+2 - Literature inspiration 
+* In order to better understand the data and find different aspects, searching some references (news, article, paper, journal, vedios) related to speed camera violation in Chicago.
+
+3 - Insert data into tableau 
+* Trying differenct variable combination with violation numbers to find findings.
+
+4 - Analysising on the different findings.  
+
+5 - Showing findings to Chicago Mayor with evidences.
+
+6 - Limitation and improvement of findings
 
 # Finding Analysis 
 
