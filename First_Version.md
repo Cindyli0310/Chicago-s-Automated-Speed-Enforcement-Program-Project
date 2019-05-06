@@ -62,7 +62,7 @@ However, an article named 'CHICAGO’S LATEST MONEY GRAB  300 SPEED CAMERAS COUL
 ## Finding 2   
 The higheset violation number by each month usually happened in May or October for each year, and August is always the low point between May and October.  
 
-![](Finding_2_2.png)
+![](images/Finding_2_2.png)
 
 
 ### Data wrangling steps   
@@ -83,13 +83,13 @@ Second, one potential reason to cause August has low point is that majority scho
 
 In order to sovle the high violation issue, I would suggust Chicago government to double the fine during warm weather month. With higher fine, people will be more careful to pass children safety zone and decrease automobile injuries. 
 
-![](Chicago_weather.png)
+![](images/Chicago_weather.png)
 
 
 ### Finding 3   
 In each ward, number of crimes is not positively correlated to the number of speeding violations. In wards with low crime numbers, the number of speeding violations seem to be randomly distributed. In wards with high crime numbers, the number of crimes and number of speeding violations seem to be negatively correlated.  
 
-![](Finding_3.png)
+![](images/Finding_3.png)
 
 
 ### Data wrangling steps   
@@ -101,9 +101,9 @@ In each ward, number of crimes is not positively correlated to the number of spe
 
 **Step 4**  In the new merged dataset in Tableau, each case number represents total number of crime by each wards.The pictures shows the merge steps writing in Jupyter notebook with Python. I also upload the complete file in github.  
 
-![](merge_1.png) 
+![](images/merge_1.png) 
 
-![](merge_2.png)
+![](images/merge_2.png)
 
 
 **Step 5**  I used bar chart to make the plot first. However, many bars overlap together, the graph looks really messy. 
