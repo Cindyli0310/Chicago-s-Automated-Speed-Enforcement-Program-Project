@@ -4,6 +4,6 @@ The topic for the individual project is the City of Chicago’s Automated Speed 
 
 ### Project Steps:
 * Data Exploration
-* First Version
+* [First Version](https://github.com/Cindyli0310/Chicago-s-Automated-Speed-Enforcement-Program-Project/blob/master/First_Version.md)
 * Revised Version
 
