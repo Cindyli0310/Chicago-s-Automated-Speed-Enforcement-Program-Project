@@ -27,7 +27,7 @@ Here is the preview of the Speed Camera Violations Dataset:
 This dataset reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2015 to 2018. Data is extracted from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system. The dataset is merged Year of 2015-2018's crime datasets orginally comes from Chicago Data Portal website. Each case number represents total number of crime by each wards.
 
 Here is the preview of the Speed Camera Violations with Crime Dataset
-![](images/crime.png) 
+![](images/Crime.png) 
 
 
 # Finding Analysis 
