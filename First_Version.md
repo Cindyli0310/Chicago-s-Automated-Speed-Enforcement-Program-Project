@@ -44,7 +44,7 @@ This dataset reflects reported incidents of crime (with the exception of murders
 
 ## Finding 1   
 The graph clearly show that daily average speed violation number decreases year by year.  
-![](Finding_1.png)  
+![](images/Finding_1.png)  
 
 ### Data wrangling steps   
 **Step 1**  I conceptually think that with speed camera installation, drivers behavior will change, and the violation numbers will change by time. So I checked the relatioship between violation numbers and each year.  
